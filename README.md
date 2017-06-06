@@ -1,6 +1,8 @@
 # github-training
 
 
+Put something valuable 
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce commodo, lacus et feugiat pharetra, arcu odio posuere nunc, eu semper diam mi vel ligula. In viverra tortor tortor, at vulputate tellus ultricies vel. Vestibulum metus erat, accumsan non aliquam sit amet, consectetur rutrum leo. Cras placerat turpis eu orci lobortis, sit amet lobortis ex luctus. Integer sit amet accumsan ligula. Praesent risus lorem, elementum at augue nec, maximus volutpat sapien. Pellentesque mattis nec magna id tincidunt.
 
