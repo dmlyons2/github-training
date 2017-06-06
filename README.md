@@ -1,13 +1,13 @@
 # github-training
 
+## Useful Links
+- [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)  
 
+## Typical Simple Workflow
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce commodo, lacus et feugiat pharetra, arcu odio posuere nunc, eu semper diam mi vel ligula. In viverra tortor tortor, at vulputate tellus ultricies vel. Vestibulum metus erat, accumsan non aliquam sit amet, consectetur rutrum leo. Cras placerat turpis eu orci lobortis, sit amet lobortis ex luctus. Integer sit amet accumsan ligula. Praesent risus lorem, elementum at augue nec, maximus volutpat sapien. Pellentesque mattis nec magna id tincidunt.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam hendrerit sodales magna eget lobortis. Mauris at rutrum quam. Mauris imperdiet nec tortor ac aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed iaculis tellus id lorem pretium interdum. Donec rutrum mollis augue, non facilisis odio facilisis lobortis. Maecenas sagittis, lorem id blandit sollicitudin, risus odio sagittis sem, sed sodales ex massa quis lacus. Etiam felis dolor, fringilla nec condimentum et, fermentum eu nulla.
-
-Curabitur sit amet ligula vel elit hendrerit condimentum vitae id ex. Etiam ullamcorper, elit eget pretium bibendum, erat sem commodo felis, et vestibulum tellus sem ac dolor. Phasellus pharetra in neque quis sollicitudin. Aliquam erat volutpat. Nunc tempus ornare efficitur. Nunc condimentum, augue vel ultrices aliquet, velit massa sagittis libero, vel porttitor augue tellus non metus. Phasellus sit amet lorem quis tellus vestibulum mollis sit amet at leo. Nullam imperdiet molestie erat, in scelerisque lectus dapibus ac. Donec in pellentesque diam. Integer ante est, hendrerit non consequat sed, pharetra ac erat. Nullam eget maximus justo. In porttitor neque dolor, eget tempus ligula laoreet faucibus. Mauris vel feugiat mauris, a ullamcorper est. Aliquam consectetur diam ac condimentum scelerisque. Duis venenatis, magna ut finibus finibus, arcu sapien tristique dui, nec accumsan purus massa eget urna.
-
-Duis lobortis eu sem commodo tempor. Duis a odio vitae nisl imperdiet mattis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque ultrices nibh vitae est ultricies condimentum. Etiam sit amet justo nisi. Quisque massa lectus, feugiat quis pulvinar id, ultrices quis libero. Vestibulum euismod eros in libero ornare, in tristique nunc fermentum. In finibus eu mi vitae rhoncus. Aliquam erat volutpat. Vestibulum pellentesque ornare efficitur. Donec interdum interdum congue. Cras pulvinar nulla nunc. Suspendisse at tellus risus. Morbi sed hendrerit magna. Ut nec aliquam felis.
-
-Curabitur consectetur iaculis venenatis. Curabitur ornare, tortor ut tincidunt lobortis, tortor eros egestas quam, vel bibendum velit enim ut risus. Quisque tempus leo nec semper rutrum. Nulla hendrerit magna eget consectetur efficitur. Mauris vestibulum ut nunc vel posuere. Aliquam hendrerit vitae augue ac eleifend. Nam tempor, tellus sit amet faucibus porta, lectus justo euismod mauris, ut ullamcorper nulla augue vel sem. Donec faucibus fermentum cursus. Phasellus molestie, magna at mattis suscipit, arcu elit vehicula nisi, sit amet sodales libero sem non ipsum. 
+- review next task/issue/card to complete
+- create a new branch
+- work on task/issue/card until it functions (might be good to break up into multiple commits)- commit work when completed
+- switch to master
+- merge new branch to master
+- delete new branch
